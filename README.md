@@ -19,9 +19,16 @@ The simulator data also enabled validation against real-world results, ensuring 
 
 
 
-Real-world experiment data:
+Real-world Experiment data:
 
 sensor_data.xlsx - data recorded from the sensors: speed/cadence sensors, heart rate monitor, power meter pedals, GPS bike computer.
 
 physic_param.xlsx - additional characteristics of participants
+
+
+Simulator Experiment data:
+
+sim_data_all.csv - data recorded from the simulator and sensors.
+
+survey_pre_sim.csv - additional characteristics of participants.
 
