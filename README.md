@@ -1,3 +1,5 @@
+When referencing, please use this DOI: https://doi.org/10.5281/zenodo.14391231
+
 # TiptoP Bicycling Data
 Bicycling data collected during the real-world and simulator bicycling experiments in the TiptoP Project. 
 
