@@ -2,12 +2,12 @@ When referencing, please use this DOI: https://doi.org/10.5281/zenodo.14391231
 
 # TiptoP Cycling Experiment
 Cycling data collected in the field and simulator experiments during the **TiptoP** (Technical and planning solutions to topographical problems in bicycle traffic) project.
+The **TiptoP** project conducted experiments to examine the impact of topography on bicycling behavior, combining real-world field studies and advanced simulator trials. 
 Link: https://radverkehr.uni-wuppertal.de/en/research/projects/current-project/tiptop/
 
 ---
 
-The **TiptoP** project conducted experiments to examine the impact of topography on bicycling behavior, combining real-world field studies and advanced simulator trials. 
-The field experiments involved **35 participants** navigating a **3.2 km loop** on the Grifflenberg campus in Wuppertal, featuring up to **13% slopes**. Equipped with bicycling sensors, participants' **speed, cadence, power output, GPS data, and heart rate** were recorded. 
+The field experiment involved **35 participants** navigating a **3.2 km loop** on the Grifflenberg campus in Wuppertal, featuring up to **13% slopes**. Equipped with bicycling sensors, participants' **speed, cadence, power output, GPS data, and heart rate** were recorded. 
 This real-world setting provided a comprehensive look at how cyclists adapt their behavior to varying gradients and environmental conditions.
 
 <img src="https://github.com/user-attachments/assets/41316a6b-fa32-4221-b4e6-22cc7741394b" width="400">
@@ -17,6 +17,7 @@ This real-world setting provided a comprehensive look at how cyclists adapt thei
 
 In parallel, a **simulator experiment** recreated similar conditions in a controlled environment. 
 Using a custom-built setup with a **Wahoo** smart trainer and virtual reality software, another group of participants encountered different routes and slopes as in reality. 
+The simulator experiment involved **31 participants**.
 This approach allowed precise manipulation of terrain and testing scenarios beyond what is feasible in the field. Similar to the field experiment, participants' **speed, cadence, power output, GPS data, and heart rate** were recorded.
 The simulator data also enabled validation against real-world results, ensuring consistency and accuracy. 
 
