@@ -28,15 +28,15 @@ Description of the files:
 
 **Field Experiment data:**
 
-**1. sensor_data.xlsx** - data recorded from the sensors: speed/cadence sensors, heart rate monitor, power meter pedals, GPS bike computer.
+**1. data_rw.csv** - data recorded from the sensors: speed/cadence sensors, heart rate monitor, power meter pedals, GPS bike computer.
 
-**2. physic_param.xlsx** - additional characteristics of participants.
+**2. additional_rw.csv** - additional characteristics of participants.
 
 
 
 **Simulator Experiment data:**
 
-**1. sim_data_all.csv** - data recorded from the simulator and sensors.
+**1. data_sim.csv** - data recorded from the simulator and sensors.
 
-**2. survey_pre_sim.csv** - additional characteristics of participants.
+**2. additional_sim.csv** - additional characteristics of participants.
 
