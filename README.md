@@ -5,7 +5,7 @@ Cycling data collected in the field and simulator experiments during the **Tipto
 The **TiptoP** project conducted experiments to examine the impact of topography on bicycling behavior, combining real-world field studies and advanced simulator trials. 
 Link: https://radverkehr.uni-wuppertal.de/en/research/projects/current-project/tiptop/
 
-Real-world field experiment
+Real-world Field Experiment
 ---
 The field experiment involved **35 participants** navigating a **3.2 km loop** on the Grifflenberg campus in Wuppertal, featuring up to **13% slopes**. Equipped with bicycling sensors, participants' **speed, cadence, power output, GPS data, and heart rate** were recorded. 
 This real-world setting provided a comprehensive look at how cyclists adapt their behavior to varying gradients and environmental conditions.
@@ -13,7 +13,7 @@ This real-world setting provided a comprehensive look at how cyclists adapt thei
 <img src="https://github.com/user-attachments/assets/41316a6b-fa32-4221-b4e6-22cc7741394b" width="400">
 <img src="https://github.com/user-attachments/assets/1fe906cd-3262-4a47-8c9f-c131a2e58683" width="400">
 
-Bicycle Simulator experiment
+Bicycle Simulator Experiment
 ---
 In parallel, a **simulator experiment** recreated similar conditions in a controlled environment. 
 Using a custom-built setup with a **Wahoo** smart trainer and virtual reality software, another group of participants encountered different routes and slopes as in reality. 
