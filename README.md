@@ -1,4 +1,4 @@
-When referencing, please use this DOI: https://doi.org/10.5281/zenodo.14391231
+When referencing, please use this DOI: https://doi.org/10.5281/zenodo.14391230
 
 # TiptoP Cycling Experiment
 Cycling data collected in the field and simulator experiments during the **TiptoP** (Technical and planning solutions to topographical problems in bicycle traffic) project.
