@@ -10,8 +10,8 @@ The **TiptoP** project conducted experiments to examine the impact of topography
 The field experiments involved **35 participants** navigating a **3.2 km loop** on the Grifflenberg campus in Wuppertal, featuring up to **13% slopes**. Equipped with bicycling sensors, participants' **speed, cadence, power output, GPS data, and heart rate** were recorded. 
 This real-world setting provided a comprehensive look at how cyclists adapt their behavior to varying gradients and environmental conditions.
 
-<img src="https://github.com/user-attachments/assets/41316a6b-fa32-4221-b4e6-22cc7741394b" width="500">
-<img src="https://github.com/user-attachments/assets/1fe906cd-3262-4a47-8c9f-c131a2e58683" width="500">
+<img src="https://github.com/user-attachments/assets/41316a6b-fa32-4221-b4e6-22cc7741394b" width="300">
+<img src="https://github.com/user-attachments/assets/1fe906cd-3262-4a47-8c9f-c131a2e58683" width="300">
 
 ---
 
