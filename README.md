@@ -20,7 +20,7 @@ Using a custom-built setup with a **Wahoo** smart trainer and virtual reality so
 This approach allowed precise manipulation of terrain and testing scenarios beyond what is feasible in the field. Similar to the field experiment, participants' **speed, cadence, power output, GPS data, and heart rate** were recorded.
 The simulator data also enabled validation against real-world results, ensuring consistency and accuracy. 
 
-![Tiptop Abschlussbild 2024](https://github.com/user-attachments/assets/76394222-c6de-4963-bf01-65ef6a705d73)
+<img src="https://github.com/user-attachments/assets/76394222-c6de-4963-bf01-65ef6a705d73" width="800">
 
 Description of the files:
 ---
